@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Pragyaa 2019</string>
+    <string name="app_name">Pragyaa 2K21</string>
 
     <!--about us activity strings-->
     <string name="about_pragyaa_text">
-        <b><i>"A wisdom by which truth can be seen.\n"</i></b>
+        <b><i>A wisdom by which truth can be seen.</i></b>
         A national level technical fiesta of SGGSIE&amp;T, Nanded organized every year to provide a
         platform for students to show their excellence in techno-social competitions. Each year we
         have a constructive theme working for the welfare of society &amp; technology. Students come in
@@ -63,20 +63,22 @@
 
 
     <string-array name="robotics">
-        <item>SPEEDSTER</item>
-        <item>PICK N PLACE and LINE FOLLOWER BOT</item>
-        <item>EVENT</item>
-        <item>ROBOSOCCER</item>
-        <item>ROBOSUMO</item>
-        <item>MAZIOMANIA</item>
-        <item>DRONE RACING</item>
+        <item>MY INK</item>
+        <item>THE JUNKYARD</item>
+        <item>THE SOFT-WAR</item>
+<!--        <item>ROBOSOCCER</item>-->
+<!--        <item>ROBOSUMO</item>-->
+<!--        <item>MAZIOMANIA</item>-->
+<!--        <item>DRONE RACING</item>-->
 
     </string-array>
 
     <string-array name="textplorer">
-        <item>KNITTING FASHION</item>
+        <item>STYLING TRENDS</item>
         <item>STYLE YOUR MANNEQUIN</item>
         <item>DRAW YOUR DESIGN</item>
+        <item>PRESENT YOUR IDEA</item>
+        <item>TEXQUIZ</item>
     </string-array>
 
     <string-array name="tasking">
@@ -109,8 +111,8 @@
 
     <!--description of the events-->
     <string-array name="committees">
-        <item>Student\'s Chief Coordinators</item>
-        <item>Student\'s Joint Coordinators</item>
+        <item>Technical Secretary</item>
+        <item>Student Coordinators</item>
 
         <item>Sponsorship Committee</item>
         <item>Finance Committee</item>
@@ -124,7 +126,7 @@
 
 
     <string-array name="chiefCordisMain">
-        <item>Manmeet Singh\n +91 700-687-7159</item>
+        <item>Shubham Goti\n +91 911-233-5388</item>
         <item>Arpit Dhobe\n +91 880-613-5818</item>
     </string-array>
 
@@ -220,7 +222,7 @@
         2) Girl participants will be accommodated in SGGS Girl\'s Hostel in College campus.<br />
         3) Boy participants will be accommodated in Boy\'s Hostel and nearby places to College campus.<br />
         4) College Buses will be running at regular intervals to and from bus station, railway station, accommodation places and college.<br /></string>
-    <string name="copyright">PRAGYAA-2019<br /></string>
+    <string name="copyright">PRAGYAA-2K21<br /></string>
     <string name="alert_web"><![CDATA[And Web Designing & Advertising Team]]></string>
     <string name="design_text_alert">-Designed and Developed by-</string>
     <string name="title_activity_schedule">Events &amp; Schedule</string>
@@ -229,11 +231,11 @@
     <string name="title_activity_committee">CommitteeActivity</string>
 
 
-    <string name="pragya_link"><u>http://www.pragyaa.org</u></string> //activity_about_us.xml page
+    <string name="pragya_link"><u>http://www.pragyaa.tech</u></string> //activity_about_us.xml page
     <string name="register_text"><u>Register</u></string>
     <string name="title_activity_info_dept">Departmental events Info</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="shevat"> Aditya Mahajan</string>
+    <string name="shevat"> Mahesh Wattamwar</string>
 </resources>

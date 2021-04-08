@@ -6,6 +6,6 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/pragyaa_logo" />
+            android:src="@drawable/pragyaa2021" />
     </item>
 </layer-list>

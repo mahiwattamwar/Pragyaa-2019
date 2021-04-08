@@ -32,7 +32,7 @@
                 android:fitsSystemWindows="true"
                 android:id="@+id/header_img"
                 android:scaleType="fitXY"
-                android:src="@drawable/pragyaa_header"
+                android:src="@drawable/pragyaa2021header"
                 android:layout_width="match_parent"
                 app:layout_collapseMode="parallax"
                 android:layout_height="match_parent" />
@@ -711,36 +711,36 @@
                 <TextView
                     android:id="@+id/register"
                     style="@style/myFabTextView"
-                    android:drawableLeft="@drawable/ic_register_selector"
                     android:drawableStart="@drawable/ic_register_selector"
+                    android:drawableLeft="@drawable/ic_register_selector"
                     android:text="Register" />
 
                 <TextView
                     android:id="@+id/schedule"
                     style="@style/myFabTextView"
-                    android:drawableLeft="@drawable/ic_schedule_selector"
                     android:drawableStart="@drawable/ic_schedule_selector"
+                    android:drawableLeft="@drawable/ic_schedule_selector"
                     android:text="Schedule" />
 
                 <TextView
                     android:id="@+id/hospitality"
                     style="@style/myFabTextView"
-                    android:drawableLeft="@drawable/ic_hospi_selector"
                     android:drawableStart="@drawable/ic_hospi_selector"
+                    android:drawableLeft="@drawable/ic_hospi_selector"
                     android:text="Hospitality" />
 
                 <TextView
                     android:id="@+id/contact"
                     style="@style/myFabTextView"
-                    android:drawableLeft="@drawable/ic_contact_selector"
                     android:drawableStart="@drawable/ic_contact_selector"
+                    android:drawableLeft="@drawable/ic_contact_selector"
                     android:text="Contact Us" />
 
                 <TextView
                     android:id="@+id/about"
                     style="@style/myFabTextView"
-                    android:drawableLeft="@drawable/ic_about_selector"
                     android:drawableStart="@drawable/ic_about_selector"
+                    android:drawableLeft="@drawable/ic_about_selector"
                     android:text="About Us" />
 
             </LinearLayout>

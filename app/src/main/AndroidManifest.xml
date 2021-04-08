@@ -11,14 +11,14 @@
     <application
         android:name="org.pragyaa.pragyaa2018.Pragyaa"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/pragyaa2021"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:replace="icon">
         <activity
             android:name="org.pragyaa.pragyaa2018.MainActivity"
-            android:label="PRAGYAA 2019"
+            android:label="PRAGYAA 2K21"
             android:theme="@style/MainActivityTheme">
             <intent-filter>
                 <action android:name="com.pragyaa.pragyaa2017.MAINACTIVITY" />

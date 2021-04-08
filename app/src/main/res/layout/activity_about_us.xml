@@ -19,6 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="@color/blackText"
+
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
@@ -43,7 +44,7 @@
                 android:text="About PRAGYAA"
                 android:textAlignment="center"
                 android:textColor="@color/whiteText"
-                android:textSize="24sp" />
+                android:textSize="26sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -70,7 +71,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/md_keyLines"
-                android:text="About Institute"
+                android:text="ABOUT INSTITUTE"
                 android:textAlignment="center"
                 android:textColor="@color/whiteText"
                 android:textSize="24sp" />

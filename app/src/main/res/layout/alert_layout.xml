@@ -24,7 +24,7 @@
 
     <TextView
         android:layout_marginBottom="@dimen/vsm_keyLines"
-        android:text="Special thanks to Nikhil Chaudhari"
+        android:text="Special thanks to Shubham Goti"
         android:textAlignment="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

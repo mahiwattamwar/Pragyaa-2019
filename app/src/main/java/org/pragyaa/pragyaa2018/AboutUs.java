@@ -58,7 +58,7 @@ public class AboutUs extends AppCompatActivity {
                 CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
                 builder.setToolbarColor(getResources().getColor(R.color.colorPrimary));
                 CustomTabsIntent customTabsIntent = builder.build();
-                customTabsIntent.launchUrl(AboutUs.this, Uri.parse("http://www.pragyaa.org/"));
+                customTabsIntent.launchUrl(AboutUs.this, Uri.parse("https://pragyaa.tech/"));
             }
         });
 

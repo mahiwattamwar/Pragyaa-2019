@@ -23,7 +23,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp"
             android:alpha="0"
-            android:text="PRAGYAA 2019"
+            android:text="PRAGYAA 2K21"
             android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
             android:textColor="@color/blackText"
             android:textSize="22sp"
@@ -51,7 +51,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:src="@drawable/onboard_image"
+        android:src="@drawable/pragyaa2021"
         tools:visibility="gone" />
 
 </FrameLayout>
