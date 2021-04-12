@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:id="@+id/activity_about_us"
-    tools:context="org.pragyaa.pragyaa2018.AboutUs">
+    tools:context="org.maheshpragyaaa.pragyaa2021.AboutUs">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

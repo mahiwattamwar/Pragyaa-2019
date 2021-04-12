@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.pragyaa.pragyaa2018">
+    package="org.maheshpragyaaa.pragyaa2021">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -9,15 +9,24 @@
     <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
-        android:name="org.pragyaa.pragyaa2018.Pragyaa"
+        android:name=".Pragyaa"
         android:allowBackup="true"
         android:icon="@drawable/pragyaa2021"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:replace="icon">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2452674421687131~4751721852"/>
+        <activity android:name=".Shree">
+
+        </activity>
+
+        <activity android:name=".MobileActivity" />
+        <activity android:name=".ContactUsActivity" />
         <activity
-            android:name="org.pragyaa.pragyaa2018.MainActivity"
+            android:name=".MainActivity"
             android:label="PRAGYAA 2K21"
             android:theme="@style/MainActivityTheme">
             <intent-filter>
@@ -27,7 +36,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="org.pragyaa.pragyaa2018.SplashScreen"
+            android:name=".SplashScreen"
             android:theme="@style/OnBoardTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,61 +45,56 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="org.pragyaa.pragyaa2018.AboutUs"
+            android:name=".AboutUs"
             android:label="@string/about_us_activity_title"
             android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="org.pragyaa.pragyaa2018.MainActivity" />
+                android:value="org.maheshpragyaaa.pragyaa2021.MainActivity" />
         </activity>
         <activity
-            android:name="org.pragyaa.pragyaa2018.ShowEventsActivity"
+            android:name=".ShowEventsActivity"
             android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="org.pragyaa.pragyaa2018.MainActivity" />
+                android:value="org.maheshpragyaaa.pragyaa2021.MainActivity" />
         </activity>
         <activity
-            android:name="org.pragyaa.pragyaa2018.EventDetailsActivity"
+            android:name=".EventDetailsActivity"
             android:exported="true"
             android:label="@string/event_details_activity_title"
             android:theme="@style/AppTheme.TransNav" />
         <activity
-            android:name="org.pragyaa.pragyaa2018.Hospitality"
+            android:name=".Hospitality"
             android:label="@string/title_activity_hospitality"
             android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="org.pragyaa.pragyaa2018.MainActivity" />
+                android:value="org.maheshpragyaaa.pragyaa2021.MainActivity" />
         </activity>
         <activity
-            android:name="org.pragyaa.pragyaa2018.ScheduleActivity"
+            android:name=".ScheduleActivity"
             android:exported="true"
             android:label="@string/title_activity_schedule"
             android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="org.pragyaa.pragyaa2018.MainActivity" />
+                android:value="org.maheshpragyaaa.pragyaa2021.MainActivity" />
         </activity>
         <activity
-            android:name="org.pragyaa.pragyaa2018.InfoDeptActivity"
+            android:name=".InfoDeptActivity"
             android:label="@string/title_activity_info_dept"
-            android:theme="@style/AppTheme">
-        </activity>
-
-        <!-- Firebase Notifications -->
-        <service android:name="org.pragyaa.pragyaa2018.notifications.MyFirebaseMessagingService">
+            android:theme="@style/AppTheme" /> <!-- Firebase Notifications -->
+        <service android:name=".notifications.MyFirebaseMessagingService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
-        <service android:name="org.pragyaa.pragyaa2018.notifications.MyFirebaseInstanceIDService">
+        <service android:name=".notifications.MyFirebaseInstanceIDService">
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
-        <!-- Firebase Notifications -->
-
     </application>
 
 </manifest>

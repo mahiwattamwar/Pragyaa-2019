@@ -4,10 +4,10 @@
 
     <item android:id="@+id/background_shape">
         <shape>
-            <corners android:radius="5dp" />
+            <corners android:radius="8dp" />
 
             <gradient
-                android:startColor="#cc40407a"
+                android:startColor="#0080ff"
                 android:angle="90" />
 
         </shape>

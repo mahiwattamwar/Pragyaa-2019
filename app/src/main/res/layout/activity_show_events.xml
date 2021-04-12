@@ -5,7 +5,7 @@
     android:id="@+id/activity_show_events"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="org.pragyaa.pragyaa2018.ShowEventsActivity">
+    tools:context="org.maheshpragyaaa.pragyaa2021.ShowEventsActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"

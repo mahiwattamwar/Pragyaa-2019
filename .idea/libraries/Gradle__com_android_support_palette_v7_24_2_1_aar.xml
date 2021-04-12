@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:palette-v7:24.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-24.2.1.aar/3c0c2a6d4d6ecf5b5706d97be28ce600/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac8eb66621fc5e5601cea19343ee326/palette-v7-24.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac8eb66621fc5e5601cea19343ee326/palette-v7-24.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac8eb66621fc5e5601cea19343ee326/palette-v7-24.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/palette-v7/24.2.1/617238215ecc4b27aff5e5be660491db39b8bcc7/palette-v7-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/palette-v7/24.2.1/e0354fa15edcfbac3c87d39a5fd318819ea624d8/palette-v7-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

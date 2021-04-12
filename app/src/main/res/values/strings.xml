@@ -37,75 +37,90 @@
     </string-array>
 
     <string-array name="designing">
-        <item>TRAIN YOUR TOOL</item>
         <item>CADWAR</item>
+        <item>Swipe Your Slide</item>
+        <item>Mechwiz</item>
+
     </string-array>
 
     <string-array name="paper">
-        <item>TECHNOTHON</item>
-        <item>CREATRICAL</item>
+        <item>Tricky Circuits</item>
+        <item>Papel Electrica</item>
+        <item>Circuital Dilemma</item>
+        <item>Lit Up Here</item>
+        <item>Tek-tronix</item>
+        <item>Technovanza</item>
     </string-array>
 
 
     <string-array name="specialevents">
-        <item>DOODLE IT</item>
-        <item>SCRAP DEALERS</item>
-        <item>TALKING PEN</item>
-        <item>JUNIOR SCIENTIST</item>
-        <item>HISTORY BUFF</item>
-        <item>PRICE IS RIGHT</item>
-        <item>MOCK PLACEMENT</item>
-        <item>COMING SOON</item>
-        <item>COMING SOON</item>
-        <item>TRANSFORMING NATION</item>
-    </string-array>
+        <item>Mock Placement</item>
+        <item>Knowledge Hunt</item>
+        <item>Hunky Brains</item>
+        <item>Bhaskaracharya Maths Learning Assessment</item>
+        <item>Space Buzz</item>
+        <item>Talking Pen</item>
+        <item>Clear Your Lens</item>
+        <item>Animation Express</item>
+        <item>Be An Entrepreneur</item>
+        <item>Auction-O-Mania</item>
+        <item>Face The Nation</item>
+        <item>  House Of Mini</item>
 
+
+    </string-array>
 
 
     <string-array name="robotics">
         <item>MY INK</item>
         <item>THE JUNKYARD</item>
         <item>THE SOFT-WAR</item>
-<!--        <item>ROBOSOCCER</item>-->
-<!--        <item>ROBOSUMO</item>-->
-<!--        <item>MAZIOMANIA</item>-->
-<!--        <item>DRONE RACING</item>-->
+        <!--        <item>ROBOSOCCER</item>-->
+        <!--        <item>ROBOSUMO</item>-->
+        <!--        <item>MAZIOMANIA</item>-->
+        <!--        <item>DRONE RACING</item>-->
 
     </string-array>
 
     <string-array name="textplorer">
         <item>STYLING TRENDS</item>
-        <item>STYLE YOUR MANNEQUIN</item>
+        <!--        <item>STYLE YOUR MANNEQUIN</item>-->
         <item>DRAW YOUR DESIGN</item>
         <item>PRESENT YOUR IDEA</item>
         <item>TEXQUIZ</item>
+        <item>STYLE YOUR MANNEQUIN</item>
     </string-array>
 
     <string-array name="tasking">
-        <item>AMAZING REACTION</item>
-        <item>BRAIN BOOSHUP</item>
+        <item>Threaded Ideas</item>
+        <item>Technochem </item>
     </string-array>
 
 
     <string-array name="gaming">
-        <item>NEED FOR SPEED (Most Wanted)</item>
-        <item>COUNTER STRIKE</item>
-        <item>FIFA</item>
-        <item>PUBG (SQUAD)</item>
+        <item>Valorant</item>
+        <item>Call-Of-Duty</item>
+        <item>Counter Strike-GO</item>
+        <item>Freefire</item>
+        <item>PUBG PC Lite</item>
+        <!--        <item>PUBG (SQUAD)</item>-->
     </string-array>
 
     <string-array name="cenfest">
-        <item>STALKING TOWER</item>
-        <item>SEEM CITY</item>
-        <item>BRIDGE UP</item>
+        <item>Master Blocks</item>
+        <item>Civil Innovators PPT</item>
+        <item>Build it up</item>
+        <item>Civi-Q</item>
+        <item>Civil Contractors League</item>
+
     </string-array>
 
     <string-array name="coding">
-        <item>CODE IN LESS</item>
-        <item>COMING SOON</item>
-        <item>BLIND C</item>
-        <item>SWITCH HERO</item>
-        <item>MICROCON</item>
+        <item>Reverse Coding </item>
+        <item>Encryption</item>
+        <item>Pace The Code</item>
+        <item>Run Time Error</item>
+        <item>Code Talk</item>
 
     </string-array>
 
@@ -124,9 +139,8 @@
     </string-array>
 
 
-
     <string-array name="chiefCordisMain">
-        <item>Shubham Goti\n +91 911-233-5388</item>
+        <item>Shubham Ghoti\n +91 911-233-5388</item>
         <item>Arpit Dhobe\n +91 880-613-5818</item>
     </string-array>
 
@@ -210,7 +224,6 @@
     </string-array>
 
 
-
     <!--event detail activity strings-->
     <string name="mobi_one"><u> mobi one </u></string>
     <string name="mobi_two"><u> mobi two </u></string>
@@ -231,7 +244,8 @@
     <string name="title_activity_committee">CommitteeActivity</string>
 
 
-    <string name="pragya_link"><u>http://www.pragyaa.tech</u></string> //activity_about_us.xml page
+    <string name="pragya_link"><u>http://www.pragyaa.tech</u></string>
+    //activity_about_us.xml page
     <string name="register_text"><u>Register</u></string>
     <string name="title_activity_info_dept">Departmental events Info</string>
 

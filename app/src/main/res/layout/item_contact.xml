@@ -24,8 +24,10 @@
         android:layout_height="wrap_content"
         android:padding="@dimen/vsm_keyLines"
         android:text="Committee Name"
-        android:textColor="@color/whiteText"
         android:textAlignment="center"
+        android:textColor="@color/whiteText"
+
+
         android:textAppearance="?attr/textAppearanceListItem"
         android:textSize="20sp" />
 

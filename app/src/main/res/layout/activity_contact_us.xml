@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/background_dark"
+    tools:context=".ContactUsActivity">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar1"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/blackText"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_marginLeft="@dimen/vsm_keyLines"
+        android:layout_marginRight="@dimen/vsm_keyLines"
+        android:layout_marginTop="@dimen/vsm_keyLines"
+        android:layout_marginBottom="4dp"
+        app:cardElevation="4dp"
+        android:contextClickable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardCornerRadius="@dimen/vsm_keyLines"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:id="@+id/sec1"
+                android:scaleType="centerCrop"/>
+
+            <LinearLayout
+                android:gravity="center"
+                android:orientation="vertical"
+                android:background="@drawable/text_back_grey"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.romainpiel.shimmer.ShimmerTextView
+                    android:id="@+id/sec2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/text_back_grey"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:text="TECHNICAL SECRETARY"
+                    android:textColor="@color/whiteText"
+                    android:textSize="18sp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:reflectionColor="@color/colorPrimaryDark" />
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/sc2"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/sc1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="STUDENT COORDINATOR"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/fc1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/fc2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Finance Committee"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/spons1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/spons2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Sponsorship committee"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/pr1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/pr2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Public Relations Committee"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/wc1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/wc2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Website, Advertisement and Multimedia Committee"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+
+
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/ea1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/ea2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Event Affairs Committee"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/fs1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/fs2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Food and Site Committee"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_marginLeft="@dimen/vsm_keyLines"
+            android:layout_marginRight="@dimen/vsm_keyLines"
+            android:layout_marginTop="@dimen/vsm_keyLines"
+            android:layout_marginBottom="4dp"
+            app:cardElevation="4dp"
+            android:contextClickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="@dimen/vsm_keyLines"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:id="@+id/hs1"
+                    android:scaleType="centerCrop"/>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:background="@drawable/text_back_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.romainpiel.shimmer.ShimmerTextView
+                        android:id="@+id/hs2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/text_back_grey"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="Hospitality, Guest Management and Lecture Series"
+                        android:textColor="@color/whiteText"
+                        android:textSize="18sp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:reflectionColor="@color/colorPrimaryDark" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

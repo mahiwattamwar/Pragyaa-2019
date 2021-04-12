@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.elevenetc:textsurface:0.9.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1baeab55b5e560917e9e7b2f1c5af761/textsurface-0.9.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1baeab55b5e560917e9e7b2f1c5af761/textsurface-0.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1baeab55b5e560917e9e7b2f1c5af761/textsurface-0.9.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

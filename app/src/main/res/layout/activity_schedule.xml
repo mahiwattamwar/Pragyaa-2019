@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:id="@+id/schedule_events"
-    tools:context="org.pragyaa.pragyaa2018.ScheduleActivity">
+    tools:context="org.maheshpragyaaa.pragyaa2021.ScheduleActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -33,6 +33,7 @@
             android:textColor="@color/whiteText"
             android:textSize="18sp" />
 
+
     </android.support.design.widget.AppBarLayout>
 
 
@@ -42,15 +43,21 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
-
-            <android.support.v7.widget.RecyclerView
-                android:id="@+id/event_schedules"
+            <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginTop="@dimen/lm_keyLines"
-                android:background="@color/blackText"
-                android:scrollbars="vertical"
-                app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+                android:layout_height="wrap_content"
+                android:src="@drawable/sceduldephoto"/>
+
+<!--            <android.support.v7.widget.RecyclerView-->
+<!--                android:id="@+id/event_schedules"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_marginTop="@dimen/lm_keyLines"-->
+<!--               -->
+<!--                android:scrollbars="vertical"-->
+<!--                app:layout_behavior="@string/appbar_scrolling_view_behavior" />-->
+
+
 
         </android.support.v4.widget.SwipeRefreshLayout>
 
