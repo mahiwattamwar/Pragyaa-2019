@@ -2,9 +2,13 @@
   <library name="Gradle: com.google.firebase:firebase-auth-interop:16.0.1@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/c2b67cf66115d73f02cc647e2cc7cbd8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db45eca5bf1c1686743ba2aec9338a1a/firebase-auth-interop-16.0.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db45eca5bf1c1686743ba2aec9338a1a/firebase-auth-interop-16.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db45eca5bf1c1686743ba2aec9338a1a/firebase-auth-interop-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aed1ac35072a4c7c0c769dd524cf3a0d/firebase-auth-interop-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a35ef11b28bf49de6131560a6895bd98/firebase-auth-interop-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01f4a42a514e5251172578d52766f17e/firebase-auth-interop-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5216f2c593ff069b0c229489b6e1d81/firebase-auth-interop-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5216f2c593ff069b0c229489b6e1d81/firebase-auth-interop-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5216f2c593ff069b0c229489b6e1d81/firebase-auth-interop-16.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

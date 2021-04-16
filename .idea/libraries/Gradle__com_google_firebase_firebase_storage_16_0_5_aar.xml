@@ -3,8 +3,12 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/baf0890b2b49df83e64a9a5e20b1751b/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69eeb51ddb8e6bf6010a159546f20f4c/firebase-storage-16.0.5/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69eeb51ddb8e6bf6010a159546f20f4c/firebase-storage-16.0.5/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69eeb51ddb8e6bf6010a159546f20f4c/firebase-storage-16.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e45fe0c73d0e2aeb19a34100a886f168/firebase-storage-16.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c33d982f5fc7c8f5cc0ba4e9833484ff/firebase-storage-16.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a109d88cd954943cc095a229813fea8f/firebase-storage-16.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab686e499f17a7a32a270e3d43a6da1c/firebase-storage-16.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab686e499f17a7a32a270e3d43a6da1c/firebase-storage-16.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab686e499f17a7a32a270e3d43a6da1c/firebase-storage-16.0.5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/16.0.5/687b4dbdcff67eb5f6cb5898f5a1d4674b84d679/firebase-storage-16.0.5-javadoc.jar!/" />

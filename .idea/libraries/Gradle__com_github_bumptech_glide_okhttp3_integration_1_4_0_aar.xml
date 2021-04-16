@@ -3,8 +3,12 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/67066619b0177c8001c988a6b58dd624/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0c135e2240fb4e9b6499fc6034d4f02/okhttp3-integration-1.4.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0c135e2240fb4e9b6499fc6034d4f02/okhttp3-integration-1.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0c135e2240fb4e9b6499fc6034d4f02/okhttp3-integration-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00c4d8df930e1c3aa05b60d3b842380a/okhttp3-integration-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28a9d7acc4a3a625483e782c203ae0fe/okhttp3-integration-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7089c2bd86a8bae5817e70074a114cbf/okhttp3-integration-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9215199c56f4a7403a79ea6e77f9cc3d/okhttp3-integration-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9215199c56f4a7403a79ea6e77f9cc3d/okhttp3-integration-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9215199c56f4a7403a79ea6e77f9cc3d/okhttp3-integration-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/1.4.0/5faf71dcb437e2444553445eca5e93fd8d9b26ee/okhttp3-integration-1.4.0-javadoc.jar!/" />

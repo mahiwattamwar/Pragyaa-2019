@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.roughike:bottom-bar:2.0.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95fe2fd59dda91d3f1478dd92716f7d4/bottom-bar-2.0.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95fe2fd59dda91d3f1478dd92716f7d4/bottom-bar-2.0.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95fe2fd59dda91d3f1478dd92716f7d4/bottom-bar-2.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c5d64bc44d886d5786777bc441b393e/bottom-bar-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c5d64bc44d886d5786777bc441b393e/bottom-bar-2.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c5d64bc44d886d5786777bc441b393e/bottom-bar-2.0.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.roughike/bottom-bar/2.0.2/2071b609ad81f88e3c3dda31988d2e3a791fa239/bottom-bar-2.0.2-javadoc.jar!/" />

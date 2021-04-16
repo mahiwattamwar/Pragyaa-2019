@@ -3,8 +3,12 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arcanimator-1.0.0.aar/ed32d01379da06916ed07c34ce5e1757/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c94e10340aa45316fa6c03e018e28c35/arcanimator-1.0.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c94e10340aa45316fa6c03e018e28c35/arcanimator-1.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c94e10340aa45316fa6c03e018e28c35/arcanimator-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66fa1cc1101060bd032dbcf20863e156/arcanimator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1f92b46213b3510ad0016ff6f935048/arcanimator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e23b41bf3a08ace246fb3784861cf67/arcanimator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e14b1062fdfc1a3bae9d3500a5d1202/arcanimator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e14b1062fdfc1a3bae9d3500a5d1202/arcanimator-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e14b1062fdfc1a3bae9d3500a5d1202/arcanimator-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asyl.animation/arcanimator/1.0.0/dd3e57f093206c7a356c52569df7e05304ed785/arcanimator-1.0.0-javadoc.jar!/" />

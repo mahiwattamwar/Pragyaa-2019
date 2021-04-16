@@ -2,9 +2,13 @@
   <library name="Gradle: com.google.android.gms:play-services-auth-base:9.6.1@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.6.1.aar/5eac2ca446f07c52479a9f98d827e770/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dbb772f5b3f11addf86c841c43da6aec/play-services-auth-base-9.6.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dbb772f5b3f11addf86c841c43da6aec/play-services-auth-base-9.6.1/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dbb772f5b3f11addf86c841c43da6aec/play-services-auth-base-9.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b42518bc0aed9d4b95c5ced2b8e00f6f/play-services-auth-base-9.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9f37b040d1c5c85163d58b33f6d15b5/play-services-auth-base-9.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d231bec81fe6a5adb526ef0f06a1e75a/play-services-auth-base-9.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8defc6c16f994d4f64f1b8bac06b8405/play-services-auth-base-9.6.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8defc6c16f994d4f64f1b8bac06b8405/play-services-auth-base-9.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8defc6c16f994d4f64f1b8bac06b8405/play-services-auth-base-9.6.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

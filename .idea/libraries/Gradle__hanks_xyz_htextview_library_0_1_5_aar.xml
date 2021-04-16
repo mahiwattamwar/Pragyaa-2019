@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: hanks.xyz:htextview-library:0.1.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27bee3c8361fad054de846290f4bc0c4/htextview-library-0.1.5/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27bee3c8361fad054de846290f4bc0c4/htextview-library-0.1.5/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27bee3c8361fad054de846290f4bc0c4/htextview-library-0.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b58b5114cef24262b3857f6aa29824e0/htextview-library-0.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b58b5114cef24262b3857f6aa29824e0/htextview-library-0.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b58b5114cef24262b3857f6aa29824e0/htextview-library-0.1.5/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/hanks.xyz/htextview-library/0.1.5/64e6e3a9c3c2c1748f7ad71ede2047504723815/htextview-library-0.1.5-javadoc.jar!/" />

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.gordonwong:material-sheet-fab:1.2.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07cb9e7b88dad3aa0413e6fdf6cc0a77/material-sheet-fab-1.2.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07cb9e7b88dad3aa0413e6fdf6cc0a77/material-sheet-fab-1.2.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07cb9e7b88dad3aa0413e6fdf6cc0a77/material-sheet-fab-1.2.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55ecb5e8f7087cbd5912c0896b44ff3b/material-sheet-fab-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55ecb5e8f7087cbd5912c0896b44ff3b/material-sheet-fab-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55ecb5e8f7087cbd5912c0896b44ff3b/material-sheet-fab-1.2.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gordonwong/material-sheet-fab/1.2.1/e087f266bfb86aae871202b0d99b02d866cbf5c9/material-sheet-fab-1.2.1-javadoc.jar!/" />

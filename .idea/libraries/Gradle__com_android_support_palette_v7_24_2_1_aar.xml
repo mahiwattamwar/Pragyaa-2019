@@ -3,8 +3,12 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-24.2.1.aar/3c0c2a6d4d6ecf5b5706d97be28ce600/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac8eb66621fc5e5601cea19343ee326/palette-v7-24.2.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac8eb66621fc5e5601cea19343ee326/palette-v7-24.2.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac8eb66621fc5e5601cea19343ee326/palette-v7-24.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85cca5d57fb2b19898b577189668f5e7/palette-v7-24.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ce591130c257e80be4198198d4c0267/palette-v7-24.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31005f2dfcd5424625d7657b90247727/palette-v7-24.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5cee5c217db60066fcfd07b004633eda/palette-v7-24.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5cee5c217db60066fcfd07b004633eda/palette-v7-24.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5cee5c217db60066fcfd07b004633eda/palette-v7-24.2.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/palette-v7/24.2.1/617238215ecc4b27aff5e5be660491db39b8bcc7/palette-v7-24.2.1-javadoc.jar!/" />

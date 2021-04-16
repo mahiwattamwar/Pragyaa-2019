@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: io.saeid:fab-loading:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d64cd6743a10ea430a9296a49955d59/fab-loading-1.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc57cf748c1a0682cfd3eb603e683a17/fab-loading-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d64cd6743a10ea430a9296a49955d59/fab-loading-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d64cd6743a10ea430a9296a49955d59/fab-loading-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d64cd6743a10ea430a9296a49955d59/fab-loading-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc57cf748c1a0682cfd3eb603e683a17/fab-loading-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc57cf748c1a0682cfd3eb603e683a17/fab-loading-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc57cf748c1a0682cfd3eb603e683a17/fab-loading-1.0.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.saeid/fab-loading/1.0.0/3106e68dd80d5f813e260bacc4d7b0a4a6911c0d/fab-loading-1.0.0-javadoc.jar!/" />

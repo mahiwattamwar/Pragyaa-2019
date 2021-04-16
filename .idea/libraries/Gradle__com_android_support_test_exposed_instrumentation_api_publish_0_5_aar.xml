@@ -3,8 +3,12 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/924cd4c6723fb06c966a561e0cb004f3/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91a9ae4a49a10eee3eba4aad8ffd2f79/exposed-instrumentation-api-publish-0.5/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91a9ae4a49a10eee3eba4aad8ffd2f79/exposed-instrumentation-api-publish-0.5/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91a9ae4a49a10eee3eba4aad8ffd2f79/exposed-instrumentation-api-publish-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea485217404665468e66e8d9b89a9b89/exposed-instrumentation-api-publish-0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9746d0be867f6d76cfdb42f9354a4e1c/exposed-instrumentation-api-publish-0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4db7f679b226bb9e88b98ae1b27b8d2a/exposed-instrumentation-api-publish-0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f40894a433512e2f5dcf72fc18c80daf/exposed-instrumentation-api-publish-0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f40894a433512e2f5dcf72fc18c80daf/exposed-instrumentation-api-publish-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f40894a433512e2f5dcf72fc18c80daf/exposed-instrumentation-api-publish-0.5/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/exposed-instrumentation-api-publish/0.5/81d0ed6618547b96baa84c6da154c88bc3a98cea/exposed-instrumentation-api-publish-0.5-javadoc.jar!/" />
